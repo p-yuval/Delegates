@@ -37,6 +37,7 @@ namespace SimpleDelegate
 
         public void ToUpper(string str) => Console.WriteLine(str.ToUpper());
         public void ToLowerCase(string str) => Console.WriteLine(str.ToLower());
+        // another commit
     }
 
 }
