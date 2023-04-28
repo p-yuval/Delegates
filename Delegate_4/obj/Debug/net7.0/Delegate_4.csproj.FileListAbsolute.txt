@@ -1,0 +1,45 @@
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.exe
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.deps.json
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.runtimeconfig.json
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.AssemblyReference.cache
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfoInputs.cache
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfo.cs
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.CoreCompileInputs.cache
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\refint\Delegate_4.dll
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.genruntimeconfig.cache
+D:\1_C# Language\Delegates\DelegateExamples\Delegate_4\obj\Debug\net7.0\ref\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.exe
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.deps.json
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.runtimeconfig.json
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\bin\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.AssemblyReference.cache
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfoInputs.cache
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfo.cs
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.CoreCompileInputs.cache
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\refint\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\Delegate_4.genruntimeconfig.cache
+D:\1_C# Language\Delegates and Events\DelegateExamples\Delegate_4\obj\Debug\net7.0\ref\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\Delegate_4\bin\Debug\net7.0\Delegate_4.exe
+D:\1_C# Language\Delegates and Events\Delegate_4\bin\Debug\net7.0\Delegate_4.deps.json
+D:\1_C# Language\Delegates and Events\Delegate_4\bin\Debug\net7.0\Delegate_4.runtimeconfig.json
+D:\1_C# Language\Delegates and Events\Delegate_4\bin\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\Delegate_4\bin\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.AssemblyReference.cache
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfoInputs.cache
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.AssemblyInfo.cs
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.csproj.CoreCompileInputs.cache
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\refint\Delegate_4.dll
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.pdb
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\Delegate_4.genruntimeconfig.cache
+D:\1_C# Language\Delegates and Events\Delegate_4\obj\Debug\net7.0\ref\Delegate_4.dll

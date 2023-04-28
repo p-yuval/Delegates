@@ -1,0 +1,15 @@
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\bin\Debug\net6.0\Func_1.exe
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\bin\Debug\net6.0\Func_1.deps.json
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\bin\Debug\net6.0\Func_1.runtimeconfig.json
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\bin\Debug\net6.0\Func_1.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\bin\Debug\net6.0\Func_1.pdb
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.csproj.AssemblyReference.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.AssemblyInfoInputs.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.AssemblyInfo.cs
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.csproj.CoreCompileInputs.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\refint\Func_1.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.pdb
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\Func_1.genruntimeconfig.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\Func_1\obj\Debug\net6.0\ref\Func_1.dll

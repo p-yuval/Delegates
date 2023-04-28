@@ -1,0 +1,15 @@
+D:\1-CSharp\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\1-CSharp\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\1-CSharp\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\1-CSharp\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\1-CSharp\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.csproj.AssemblyReference.cache
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\1-CSharp\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\1-CSharp\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\1-CSharp\Delegates\obj\Debug\net7.0\ref\Delegates.dll

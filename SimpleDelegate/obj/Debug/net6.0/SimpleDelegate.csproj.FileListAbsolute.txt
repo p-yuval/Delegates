@@ -1,0 +1,15 @@
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.csproj.AssemblyReference.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.AssemblyInfoInputs.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.AssemblyInfo.cs
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\bin\Debug\net6.0\SimpleDelegate.exe
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\bin\Debug\net6.0\SimpleDelegate.deps.json
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\bin\Debug\net6.0\SimpleDelegate.runtimeconfig.json
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\bin\Debug\net6.0\SimpleDelegate.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\bin\Debug\net6.0\SimpleDelegate.pdb
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\refint\SimpleDelegate.dll
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.pdb
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\SimpleDelegate.genruntimeconfig.cache
+D:\1_C# Language\Delegates-Events-Actions-Predicates\SimpleDelegate\obj\Debug\net6.0\ref\SimpleDelegate.dll
